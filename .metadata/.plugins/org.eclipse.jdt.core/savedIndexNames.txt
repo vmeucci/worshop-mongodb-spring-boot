@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\vinic\Documents\SSD\Curso JAVA\Projetos\springboot-mongodb\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
