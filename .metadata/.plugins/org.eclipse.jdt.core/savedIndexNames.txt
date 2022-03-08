@@ -16,12 +16,12 @@ INDEX VERSION 1.131+C:\Users\vinic\Documents\SSD\Curso JAVA\Projetos\springboot-
 247504575.index
 3103656400.index
 484809231.index
-1692847786.index
 3155185913.index
+1692847786.index
 749620638.index
-562116875.index
-3551501958.index
 587901539.index
+3551501958.index
+562116875.index
 3511686896.index
 2134034657.index
 2863518182.index
@@ -39,8 +39,8 @@ INDEX VERSION 1.131+C:\Users\vinic\Documents\SSD\Curso JAVA\Projetos\springboot-
 1873210676.index
 308968732.index
 854379360.index
-238391485.index
 3843991024.index
+238391485.index
 2885193875.index
 2908788448.index
 3000414035.index
@@ -54,9 +54,9 @@ INDEX VERSION 1.131+C:\Users\vinic\Documents\SSD\Curso JAVA\Projetos\springboot-
 234653254.index
 3055627217.index
 2056368127.index
-1766556422.index
 3003414812.index
 812769589.index
+1766556422.index
 2732902822.index
 141372299.index
 3907224582.index
